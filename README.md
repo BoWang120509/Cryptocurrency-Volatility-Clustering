@@ -1,5 +1,5 @@
 # Cryptocurrency-Volatility-Clustering
-# Cryptocurrency Volatility Clustering Analysis
+
 # Project Overview
 This project focuses on analyzing the volatility patterns of over 1000 cryptocurrency pairs using minute-level trading data.
 The goal is to cluster different cryptocurrencies based on their volatility, extreme behavior, and trading activity,
